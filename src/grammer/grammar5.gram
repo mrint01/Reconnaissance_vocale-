@@ -1,0 +1,1 @@
+#JSGF V1.0; /** * JSGF Grammar */ grammar grammar; public = ( un | deux | trois | quatre | six | sept | huit | neuf | Dix | cent | mille | cinq | zero )+;
